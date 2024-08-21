@@ -1,0 +1,22 @@
+ #image1 {
+     
+  width: 40vw;
+
+  margin-bottom: 30px;
+ }
+#names{
+    width: 200px;
+    height: 18px;
+    margin-left: 0.7cm;
+}
+ 
+#phone{
+    width: 200px;
+    height: 18px;
+    margin-left: 0.16cm;
+}
+#email{
+    width: 200px;
+    height: 18px;
+    margin-left: 0.4cm;
+}
